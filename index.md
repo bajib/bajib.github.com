@@ -8,8 +8,8 @@ permalink: /
 I am interested in working for the innovative, challenging and research orientated projects and keen to enhance the skill and share the experiences by participating in the discussions and presentations. 
 Moreover, with my experiences in academics and research, I can provide guidance to students interested in research works and consultancy services in IT projects.
 
-{: style="margin-top:0; text-align:justify; textjustify:inter-word;"}  
-Information and communication engineer with expertise on Image processing, 3D visualization and high performance computing and with hands on experience in coding and designing systems.
+<!-- {: style="margin-top:0; text-align:justify; textjustify:inter-word;"}  
+Information and communication engineer with expertise on Image processing, 3D visualization and high performance computing and with hands on experience in coding and designing systems. -->
 
 Currently, teaching various under-graduate and graduate courses as
 
