@@ -4,15 +4,23 @@ title: Courses
 permalink: /courses/
 ---
 
-## Present 
+## Undergrad Courses 
+
+### Present 
 
 -   Artificial Intelligence
 
--   Speech processing
+-   Speech Processing
 
 
-## Past 
+### Past 
 
 -   Object Oriented Programming
 
 -   Computer Graphics
+
+## Graduate Courses 
+
+-   Artificial Intelligence
+
+-   Speech and Language Processing
