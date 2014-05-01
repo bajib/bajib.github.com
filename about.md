@@ -6,7 +6,7 @@ permalink: /about/
 
 ##Download Resume
 <!-- [$ \TeX$ ](https://github.com/basantajoshi/resume/blob/master/cv.tex){:style="color: blue; font-size:20"}  |   -->
-[PDF](files/resume.pdf){:style="color: blue; font-size:20"}
+[PDF](/files/resume.pdf){:style="color: blue; font-size:20"}
 
 
 <!-- 
