@@ -1,0 +1,28 @@
+name: Basanta Joshi
+description: Personal website and blog of Basanta Joshi
+url: "http://basantajoshi.com.np"
+
+# Author info
+author_name: Basanta Joshi
+author_image_path: /images/author-image.jpg
+author_bio: |
+    Assistant Professor at <a href=http://www.doece.ioe.edu.np/>Department of Electronics and Computer Engineering, IOE</a>.<br>
+    Research Consultant at <a href=http://www.logpoint.com/>LogPoint</a>.<br>
+# Formerly, Computer Engineering undergrad at <a href=http://www.ioe.edu.np/>Institute of Engineering, Central Campus</a>.
+
+# External services
+github_url: "https://github.com/bajib"
+linkedin_url: "https://np.linkedin.com/in/bajib"
+researchgate_url: "https://www.researchgate.net/profile/Basanta_Joshi2"
+email: "joshibasanta@gmail.com"
+
+# Markdown rendering
+markdown: kramdown
+kramdown:
+  smart_quotes: apos,apos,quot,quot
+  parse_block_html: true
+
+# Site settings
+permalink: /blog/:title/
+relative_permalinks: false
+pygments: true
