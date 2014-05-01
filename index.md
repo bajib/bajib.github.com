@@ -4,33 +4,31 @@ homepage: True
 permalink: /
 ---
  
-
+{: style="margin-top:0; text-align:justify; textjustify:inter-word;"}
 I am interested in working for the innovative, challenging and research orientated projects and keen to enhance the skill and share the experiences by participating in the discussions and presentations. 
 Moreover, with my experiences in academics and research, I can provide guidance to students interested in research works and consultancy services in IT projects.
-  
+
+{: style="margin-top:0; text-align:justify; textjustify:inter-word;"}  
 Information and communication engineer with expertise on Image processing, 3D visualization and high performance computing and with hands on experience in coding and designing systems.
 
 Currently, teaching various under-graduate and graduate courses as
 
-{: style="margin-top:0; margin-bottom: 0;"}
-### Assistant Professor
+
+*Assistant Professor*{: style="margin-top:0; margin-bottom: 0; font-size:14pt; line-height: 1em; color: #604020;"} (basanta@ioe.edu.np)
 
 {: style="font-weight: normal; margin-top:0.5em; margin-bottom: 0;"}
-#### [Department of Electronics and Computer Engineering, IOE](http://www.doece.ioe.edu.np), Lalitpur, Nepal.
+##### [Department of Electronics and Computer Engineering, IOE](http://www.doece.ioe.edu.np), Lalitpur, Nepal.
 
-{: style="font-weight: normal; margin-top:0.5em; margin-bottom: 0;"}
-#### basanta@ioe.edu.np
+
 
 and also working as
 
 {: style="margin-top:0; margin-bottom: 0;"}
-### Research Cosultant 
+*Research Cosultant*{: style="margin-top:0; margin-bottom: 0; font-size:14pt; line-height: 1em; color: #604020;"} (basanta.joshi@logpoint.com)
 
 {: style="font-weight: normal; margin-top:0.5em; margin-bottom: 0;"}
-#### [LogPoint](http://www.logpoint.com/en/), Lalitpur, Nepal.
+##### [LogPoint](http://www.logpoint.com/en/), Lalitpur, Nepal.
 
-{: style="font-weight: normal; margin-top:0.5em; margin-bottom: 0;"}
-#### basanta.joshi@logpoint.com
 
 <!-- I was a computer engineering student at [Institute of Engineering, Central Campus Pulchowk, Lalitpur, Nepal][1].
 
