@@ -1,0 +1,35 @@
+\begin{thebibliography}{}
+\newcommand{\enquote}[1]{``#1''}
+
+\bibitem[]{Owens:2005:AOG}
+John~D. Owens, Shubhabrata Sengupta, and Daniel Horn.
+\newblock \enquote{Assessment of Graphic Processing Units ({GPU}s) for
+  {D}epartment of {D}efense ({DoD}) Digital Signal Processing ({DSP})
+  Applications}.
+\newblock Technical Report ECE-CE-2005-3, Department of Electrical and Computer
+  Engineering, University of California, Davis, October 2005.
+
+\bibitem[]{Owens:2005:GTF}
+John~D. Owens.
+\newblock \enquote{{GPU}s tapped for general computing}.
+\newblock \emph{EE Times}, 13~December 2004.
+
+\bibitem[]{Owens:2004:OTS}
+John~D. Owens.
+\newblock \enquote{On The Scalability of Sensor Network Routing and Compression
+  Algorithms}.
+\newblock Technical Report ECE-CE-2004-1, Computer Engineering Research
+  Laboratory, University of California, Davis, 2004.
+
+\bibitem[]{Szumel:2003:OTF}
+Leo Szumel and John~D. Owens.
+\newblock \enquote{On the Feasibility of the {UC} {D}avis {M}etanet}.
+\newblock Technical Report ECE-CE-2003-2, Computer Engineering Research
+  Laboratory, University of California, Davis, 2003.
+
+\bibitem[]{Owens:2002:CGO}
+John~D. Owens.
+\newblock \emph{Computer Graphics on a Stream Architecture}.
+\newblock Ph.D. thesis, Stanford University, November 2002.
+
+\end{thebibliography}
