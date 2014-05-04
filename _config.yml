@@ -27,3 +27,6 @@ kramdown:
 permalink: /blog/:title/
 relative_permalinks: false
 pygments: true
+
+#gems: [bibjekyll]
+ # This will require each of these gems automatically.
