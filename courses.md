@@ -10,7 +10,7 @@ permalink: /courses/
 
 -   Artificial Intelligence
 
--   Speech Processing
+-   [Speech Processing](/courses/SP.html)
 
 
 ### Past 
