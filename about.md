@@ -12,28 +12,28 @@ permalink: /about/
 
 ##Professional Experience
 
-#### **Assistant professor at [Department of Electronics and Computer Engineering, IOE](http://www.doece.ioe.edu.np), Lalitpur, Nepal**{: style="color: teal; font-size:12pt;"}
+#### **Assistant professor at [Department of Electronics and Computer Engineering, IOE](http://www.doece.ioe.edu.np), Lalitpur, Nepal**
 * *Apr, 2013 - Present  (1 year 2 months) <br>
 Dec, 2005 ­ Dec, 2007 (2 years)*{: style="color: brown"}
 * Teaching various Electronics and Computer Engineering subjects in the department. Also, supervising various undergraduate and undergraduate projects. 
 
-#### **Research Consultant at [LogPoint](https://www.logpoint.com/en), Lalitpur, Japan**{: style="color: teal; font-size:12pt;"}
+#### **Research Consultant at [LogPoint](https://www.logpoint.com/en), Lalitpur, Japan**
 * *Jul, 2013 ­- Present (10 months)*{: style="color: brown"}
 * Responsible for doing research on existing technologies and proposing/designing the better approach for the enhancing the features /architecture of the product LOGPOINT.
  
 
-#### **Researcher/Teaching assistant at [Osaka Sangyo Unversity](www.nyushi.osaka-sandai.ac.jp/), Osaka, Japan**{: style="color: teal; font-size:12pt;"}
+#### **Researcher/Teaching assistant at [Osaka Sangyo Unversity](www.nyushi.osaka-sandai.ac.jp/), Osaka, Japan**
 * *Oct, 2008 ­- Mar, 2013 (4 years 6 months)*{: style="color: brown"}
 * Involved in variety of research activities as a prerequisite of the PhD degree. Research work was basically focused on Image processing and developing novel algorithm for the 3D visualization of fluid flows using C/C++ as major language and Eclipse and Matlab as platform.  In the process, attended and published articles in more than 6 peer reviewed and non peer reviewer international conferences. Also, worked as teaching assistant for C++, Java and embedded system classes and was also responsible for debugging the issues with networking, windows and Linux servers.
 
-#### **Senior Software Engineer at D2hawkeye Services(Now [Verisk Information Technologies](http://www.veriskit.com/)), Kathmandu, Nepal**{: style="color: teal; font-size:12pt;"}
+#### **Senior Software Engineer at D2hawkeye Services(Now [Verisk Information Technologies](http://www.veriskit.com/)), Kathmandu, Nepal**
 * *Aug, 2007 ­- Sep, 2008 (1 year 1 month)*{: style="color: brown"}
 * Worked as a member of Data Analytics Department for building normative database and metrics of US healthcare data with hands on experience in working with DBMS like Oracle, MSSQL Server and MySQL. Also involved in developing automation tools using Java.
 
 
 
 
-#### **Lecturer and Programmer in Various engineering colleges and IT company, Kathmandu, Nepal**{: style="color: teal; font-size:12pt;"}
+#### **Lecturer and Programmer in Various engineering colleges and IT company, Kathmandu, Nepal**
 * *Dec, 2005 ­- Sep, 2008 (2 years 9 months)*{: style="color: brown"}
 * Worked as lecturer in various computer and electronics engineering colleges. Also, worked as Software Engineer to manage various projects from designing website to a complete client­server application. Hands on experience on working with DBMS like Oracle, MSSQL Server and MySQL and also with C, C++, Java, JSP/PHP.
 
