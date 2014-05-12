@@ -3,8 +3,13 @@ layout: page
 homepage: True
 permalink: /
 ---
- 
-{: style="margin-top:0; text-align:justify; textjustify:inter-word;"}
+
+{: style="margin-top:0; margin-bottom: 0; color: #604020;"}
+### Doctor of Engineering from Osaka Sangyo University, Japan 
+
+
+
+{: style="text-align:justify; textjustify:inter-word;"}
 I am interested in working for the innovative, challenging and research orientated projects and keen to enhance the skill and share the experiences by participating in the discussions and presentations. 
 Moreover, with my experiences in academics and research, I can provide guidance to students interested in research works and consultancy services in IT projects.
 
