@@ -4,8 +4,8 @@ homepage: True
 permalink: /
 ---
 
-{: style="margin-top:0; margin-bottom: 0; color: #604020;"}
-### Doctor of Engineering from Osaka Sangyo University, Japan 
+{: style="text-align:justify; textjustify:inter-word;"}
+I received my PhD in Computer Science from Osaka Sangyo University, Japan.
 
 
 

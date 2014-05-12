@@ -8,7 +8,7 @@ permalink: /courses/
 
 ### Present 
 
--   Artificial Intelligence
+-   [Artificial Intelligence](/courses/AI)
 
 -   [Speech Processing](/courses/SP)
 
